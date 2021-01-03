@@ -40,7 +40,7 @@ class _QuizAppState extends State<QuizApp> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "True Citizen",
+          "True Citizen App",
           style: TextStyle(fontSize: 25.0, fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.blueGrey,
