@@ -1,6 +1,6 @@
 # quizApp
 
-A new Flutter project.
+A new U.S citizen quiz application built with google flutter / dart
 
 ## Getting Started
 
